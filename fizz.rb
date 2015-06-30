@@ -1,7 +1,9 @@
+#check if number is divisible by 5
 def mod_5 (iNum)
 	iNum % 5 == 0 ? true : false
 end
 
+#check if number is divisible by 3
 def mod_3 (iNum)
 	iNum % 3 == 0 ? true : false
 end
